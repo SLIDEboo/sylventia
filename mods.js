@@ -16,6 +16,14 @@
       "url": "https://drive.google.com/uc?export=download&id=1cYQzWnk1vY3QQvSBlUx3-uGembowq2Nb&confirm=t",
       "hash": sha1:a221bc123...,
       "required": true
+    },
+        {
+      "name": "Sodiussm",
+      "filename": "sodiussm.jar",
+      "url": "https://drive.google.com/uc?export=download&id=12Z0deuYfx5Z1Kpnx7ShcVlfqbZ-q87gU&confirm=t",
+      "hash": sha1:a11221bc123...,
+      "required": true
     }
+    
   ]
 }
