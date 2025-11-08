@@ -1,7 +1,14 @@
 Minecraft Launcher:
   'D:\\xbox juegos\\Minecraft Launcher\\Content\\Minecraft.exe',
  'C:\\xbox juegos\\Minecraft Launcher\\Content\\Minecraft.exe',
+  'F:\\xbox juegos\\Minecraft Launcher\\Content\\Minecraft.exe',
+ 'E:\\xbox juegos\\Minecraft Launcher\\Content\\Minecraft.exe',
  'D:\\xboxgames\\Minecraft Launcher\\Content\\Minecraft.exe',
  'C:\\xboxgames\\Minecraft Launcher\\Content\\Minecraft.exe',
+ 'F:\\xboxgames\\Minecraft Launcher\\Content\\Minecraft.exe',
+ 'E:\\xboxgames\\Minecraft Launcher\\Content\\Minecraft.exe',
 Curseforge:
- 'C:\\\AppData\\Local\\Programs\\CurseForge Windows\\curseforge.exe',
+ 'C:\\curseforge\\minecraft\\Install\\minecraft.exe',
+'D:\\curseforge\\minecraft\\Install\\minecraft.exe',
+'E:\\curseforge\\minecraft\\Install\\minecraft.exe',
+'F:\\curseforge\\minecraft\\Install\\minecraft.exe',
