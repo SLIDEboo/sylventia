@@ -8,10 +8,6 @@
      "name": "lool"
  "url": "https://drive.google.com/uc?export=download&id=1cYQzWnk1vY3QQvSBlUx3-uGembowq2Nb&confirm=t",
  },
-   {
-    "name": "lol"
-   "url": "https://drive.google.com/uc?export=download&id=12Z0deuYfx5Z1Kpnx7ShcVlfqbZ-q87gU&confirm=t",
-   },
 
   ]
 } 
