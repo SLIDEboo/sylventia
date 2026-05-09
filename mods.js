@@ -2,7 +2,7 @@
  [
     {
      "name": "loool"
-   "url": "https://drive.google.com/uc?export=download&id=1r10e83IfOlE7RE5qBKVvrVTC2JZl6RC9&confirm=t",
+   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/aquamirae-6.API15.jar",
  },
     {
      "name": "lool"
