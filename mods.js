@@ -1,12 +1,12 @@
 {
  [
     {
-     "name": "loool"
-   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/aquamirae-6.API15.jar",
+    "name": "aquamirae-6.API15",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/aquamirae-6.API15.jar"
  },
     {
-     "name": "lool"
- "url": "https://drive.google.com/uc?export=download&id=1q7tHFbjd18VEjkv1KZYR2BF_XZD0yrIP&confirm=t",
+    "name": "summoningrituals-neoforge-1.21.1-3.13.2",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/summoningrituals-neoforge-1.21.1-3.13.2.jar"
  },
      {
     "name": "lal"
