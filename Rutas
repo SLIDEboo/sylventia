@@ -9,13 +9,11 @@ Minecraft Launcher:
  'F:\\xboxgames\\Minecraft Launcher\\Content\\Minecraft.exe',
 
 Curseforge:
- 'C:\\Users\\curseforge\\minecraft\\Install\\minecraft.exe',
- 'D:\\Users\\curseforge\\minecraft\\Install\\minecraft.exe',
- 'E:\\Users\\curseforge\\minecraft\\Install\\minecraft.exe',
- 'F:\\Users\\curseforge\\minecraft\\Install\\minecraft.exe',
-'C:\Users\%USERNAME%\curseforge\minecraft\Install\minecraft.exe',
-'D:\Users\%USERNAME%\curseforge\minecraft\Install\minecraft.exe',
-'E:\Users\%USERNAME%\curseforge\minecraft\Install\minecraft.exe',
-'F:\Users\%USERNAME%\curseforge\minecraft\Install\minecraft.exe',
+'C:\Users\%USERPROFILE%\curseforge\minecraft\Install\minecraft.exe',
+'D:\Users\%USERPROFILE%\curseforge\minecraft\Install\minecraft.exe',
+'E:\Users\%USERPROFILE%\curseforge\minecraft\Install\minecraft.exe',
+'F:\Users\%USERPROFILE%\curseforge\minecraft\Install\minecraft.exe',
+
+
 
 
