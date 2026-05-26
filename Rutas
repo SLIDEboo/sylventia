@@ -14,5 +14,9 @@ Curseforge:
  'D:\\Users\\curseforge\\minecraft\\Install\\minecraft.exe',
  'E:\\Users\\curseforge\\minecraft\\Install\\minecraft.exe',
  'F:\\Users\\curseforge\\minecraft\\Install\\minecraft.exe',
+'C:\Users\%USERNAME%\curseforge\minecraft\Install\minecraft.exe',
+'D:\Users\%USERNAME%\curseforge\minecraft\Install\minecraft.exe',
+'E:\Users\%USERNAME%\curseforge\minecraft\Install\minecraft.exe',
+'F:\Users\%USERNAME%\curseforge\minecraft\Install\minecraft.exe',
 
 
