@@ -1,18 +1,9 @@
-Minecraft Launcher:
- 'D:\\xbox juegos\\Minecraft Launcher\\Content\\Minecraft.exe',
- 'C:\\xbox juegos\\Minecraft Launcher\\Content\\Minecraft.exe',
- 'E:\\xbox juegos\\Minecraft Launcher\\Content\\Minecraft.exe',
- 'F:\\xbox juegos\\Minecraft Launcher\\Content\\Minecraft.exe',
- 'D:\\xboxgames\\Minecraft Launcher\\Content\\Minecraft.exe',
- 'C:\\xboxgames\\Minecraft Launcher\\Content\\Minecraft.exe',
- 'E:\\xboxgames\\Minecraft Launcher\\Content\\Minecraft.exe',
- 'F:\\xboxgames\\Minecraft Launcher\\Content\\Minecraft.exe',
-
 Curseforge:
-'C:\Users\%USERPROFILE%\curseforge\minecraft\Install\minecraft.exe',
-'D:\Users\%USERPROFILE%\curseforge\minecraft\Install\minecraft.exe',
-'E:\Users\%USERPROFILE%\curseforge\minecraft\Install\minecraft.exe',
-'F:\Users\%USERPROFILE%\curseforge\minecraft\Install\minecraft.exe',
+'C:\Users\edgas\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\SKlauncher\Sklauncher.lnk',
+'C:\Users\%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\SKlauncher\Sklauncher.lnk',
+'D:\Users\%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\SKlauncher\Sklauncher.lnk',
+'E:\Users\%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\SKlauncher\Sklauncher.lnk',
+'F:\Users\%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\SKlauncher\Sklauncher.lnk',
 
 
 
