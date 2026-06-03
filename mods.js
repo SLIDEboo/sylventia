@@ -544,6 +544,10 @@ const mods = [
     name: "zfastnoise-1.0.11+1.21",
     url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/zfastnoise-1.0.11+1.21.jar"
   },
+    {
+    name: "yet_another_config",
+    url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
+  },
   {
     name: "zoomify-2.15.1+1.21.1",
     url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/zoomify-2.15.1+1.21.1.jar"
