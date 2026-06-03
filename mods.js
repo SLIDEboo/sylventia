@@ -4,16 +4,6 @@ const mods = [
     name: "accessories-fabric-1.1.0-beta.53+1.21.1",
     url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar"
   },
-
-message.txt
-22 KB
- 
-const mods = [
-[
-  {
-    name: "accessories-fabric-1.1.0-beta.53+1.21.1",
-    url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar"
-  },
   {
     name: "accessories_compat_layer-fabric-0.1.12+1.21.1",
     url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/accessories_compat_layer-fabric-0.1.12+1.21.1.jar"
