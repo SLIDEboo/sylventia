@@ -613,10 +613,6 @@ const mods = [
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/Searchables-fabric-1.21.1-1.0.2.jar"
 },
 {
-  "name": "show-held-items-0.2.3",
-  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/show-held-items-0.2.3.jar"
-},
-{
   "name": "sodium-extra-fabric-0.6.0+mc1.21.1",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar"
 },
