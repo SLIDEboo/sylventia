@@ -282,7 +282,7 @@ const mods = [
 },
 {
   "name": "ftb-chunks-fabric-2101.1.15",
-  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/ftb-chunks-fabric-2101.1.15.jar"
+  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/ftb-chunks-fabric-2101.1.13.jar"
 },
 {
   "name": "ftb-library-fabric-2101.1.31",
