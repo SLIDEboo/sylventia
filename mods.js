@@ -169,6 +169,10 @@ const mods = [
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/Cobbreeding-fabric-2.2.0.jar"
 },
 {
+  "name": "collective-1.21.1-8.22",
+  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/collective-1.21.1-8.22.jar"
+},
+{
   "name": "comforts-fabric-9.0.5+1.21.1",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/comforts-fabric-9.0.5+1.21.1.jar"
 },
@@ -183,6 +187,10 @@ const mods = [
 {
   "name": "Controlling-fabric-1.21.1-19.0.5",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/Controlling-fabric-1.21.1-19.0.5.jar"
+},
+{
+  "name": "cryonicconfig-fabric-1.0.0+mc1.21.11",
+  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/cryonicconfig-fabric-1.0.0+mc1.21.11.jar"
 },
 {
   "name": "customsplashscreen-2.2.0",
@@ -275,6 +283,10 @@ const mods = [
 {
   "name": "ftb-chunks-fabric-2101.1.15",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/ftb-chunks-fabric-2101.1.15.jar"
+},
+{
+  "name": "ftb-library-fabric-2101.1.31",
+  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/ftb-library-fabric-2101.1.31.jar"
 },
 {
   "name": "ftb-teams-fabric-2101.1.10",
@@ -373,6 +385,10 @@ const mods = [
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/letsdo-beachparty-fabric-2.1.4.jar"
 },
 {
+  "name": "letsdo-farm_and_charm-fabric-1.1.22",
+  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/letsdo-farm_and_charm-fabric-1.1.22.jar"
+},
+{
   "name": "letsdo-herbalbrews-fabric-1.1.3",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/letsdo-herbalbrews-fabric-1.1.3.jar"
 },
@@ -407,6 +423,10 @@ const mods = [
 {
   "name": "LumyREI-1.1.3",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/LumyREI-1.1.3.jar"
+},
+{
+  "name": "malilib-fabric-1.21-0.21.10",
+  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/malilib-fabric-1.21-0.21.10.jar"
 },
 {
   "name": "mega_showdown-fabric-1.7.3+1.7.3+1.21.1",
@@ -529,8 +549,16 @@ const mods = [
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/plushies-fabric-1.5.1.jar"
 },
 {
+  "name": "pneumonocore-1.3.1+1.21+A",
+  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/pneumonocore-1.3.1+1.21+A.jar"
+},
+{
   "name": "pokeblocks-1.4.0-1.21.1",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/pokeblocks-1.4.0-1.21.1.jar"
+},
+{
+  "name": "PuzzlesLib-v21.1.51-1.21.1-Fabric",
+  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/PuzzlesLib-v21.1.51-1.21.1-Fabric.jar"
 },
 {
   "name": "rctapi-fabric-1.21.1-0.15.0-beta",
@@ -583,10 +611,6 @@ const mods = [
 {
   "name": "Searchables-fabric-1.21.1-1.0.2",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/Searchables-fabric-1.21.1-1.0.2.jar"
-},
-{
-  "name": "show-held-items-0.2.3",
-  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/show-held-items-0.2.3.jar"
 },
 {
   "name": "sodium-extra-fabric-0.6.0+mc1.21.1",
