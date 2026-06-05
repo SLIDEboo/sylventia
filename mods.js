@@ -281,7 +281,7 @@ const mods = [
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/forgivingvoid-fabric-1.21.1-21.1.6.jar"
 },
 {
-  "name": "ftb-chunks-fabric-2101.1.15",
+  "name": "ftb-chunks-fabric-2101.1.13",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/ftb-chunks-fabric-2101.1.13.jar"
 },
 {
