@@ -385,10 +385,6 @@ const mods = [
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/letsdo-herbalbrews-fabric-1.1.3.jar"
 },
 {
-  "name": "letsdo-vinery-fabric-1.5.3",
-  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/letsdo-vinery-fabric-1.5.3.jar"
-},
-{
   "name": "libjf-3.17.5",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/libjf-3.17.5.jar"
 },
