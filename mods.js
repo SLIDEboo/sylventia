@@ -71,11 +71,7 @@ const mods = [
 {
   "name": "brb-1.10.0-rc5+1.21",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/brb-1.10.0-rc5+1.21.jar"
-},
-{
-  "name": "c2me-fabric-mc1.21.1-0.3.0+alpha.0.362",
-  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/c2me-fabric-mc1.21.1-0.3.0+alpha.0.362.jar"
-},
+},  
 {
   "name": "Camerapture-1.10.12+mc1.21.1-fabric",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/Camerapture-1.10.12+mc1.21.1-fabric.jar"
