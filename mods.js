@@ -193,10 +193,6 @@ const mods = [
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/customsplashscreen-2.2.0.jar"
 },
 {
-  "name": "Debugify-1.21.1+1.0",
-  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/Debugify-1.21.1+1.0.jar"
-},
-{
   "name": "defaultoptions-fabric-1.21.1-21.1.5",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/defaultoptions-fabric-1.21.1-21.1.5.jar"
 },
