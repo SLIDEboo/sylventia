@@ -29,10 +29,6 @@ const mods = [
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/athena-fabric-1.21-4.0.2.jar"
 },
 {
-  "name": "BadOptimizations-2.4.1-1.21.1",
-  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/BadOptimizations-2.4.1-1.21.1.jar"
-},
-{
   "name": "balm-fabric-1.21.1-21.0.56",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/balm-fabric-1.21.1-21.0.56.jar"
 },
