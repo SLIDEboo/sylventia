@@ -241,10 +241,6 @@ const mods = [
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/FallingTree-1.21.1-1.21.1.11.jar"
 },
 {
-  "name": "fancymenu_fabric_3.8.1_MC_1.21.1",
-  "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar"
-},
-{
   "name": "FarmersDelight-1.21.1-3.3.3+refabricated",
   "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods/FarmersDelight-1.21.1-3.3.3+refabricated.jar"
 },
