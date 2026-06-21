@@ -1,9 +1,10 @@
 {
   "version": "1.0.1",
-  "installer": "https://github.com/SLIDEboo/sylventia/releases/download/v1.0.1/Sylventia-Launcher-Setup.exe",
+  "installer": "https://github.com/SLIDEboo/sylventia/releases/download/actualizacion/Sylventia-Launcher-Setup.exe",
   "changelog": [
-    "Nuevo sistema de actualizaciones automáticas",
-    "Mejoras en la instalación de mods",
-    "Arreglos varios"
+    "Sistema de actualizaciones automáticas",
+    "Mejoras en la instalación de Java 21",
+    "Reinstalación de Fabric desde ajustes",
+    "Progreso visible en el botón de jugar"
   ]
 }
