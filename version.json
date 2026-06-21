@@ -1,0 +1,9 @@
+{
+  "version": "1.0.1",
+  "installer": "https://github.com/SLIDEboo/sylventia/releases/download/v1.0.1/Sylventia-Launcher-Setup.exe",
+  "changelog": [
+    "Nuevo sistema de actualizaciones automáticas",
+    "Mejoras en la instalación de mods",
+    "Arreglos varios"
+  ]
+}
