@@ -1,4 +1,4 @@
-soaaund_physics_remastered:
+sound_physics_remastered:
     "name": "occlusion",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/config/occlusion.properties"
   },
@@ -15,7 +15,7 @@ soaaund_physics_remastered:
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/config/sound_rates.properties"
   }
 
-Cloblenav:
+Coblenav:
   {
     "name": "sound_rates",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/config/sound_rates.properties"
