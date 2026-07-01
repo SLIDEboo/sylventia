@@ -817,8 +817,8 @@ const mods = [
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/zoomify-2.15.2+1.21.1.jar"
 },
   {
-  name: "ExtremeSoundMuffler-3.56_Fabric-1.21.jar",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/ExtremeSoundMuffler-3.56_Fabric-1.21.jar"
+  name: "soundsbegone-fabric-1.5.2+mc1.21.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/soundsbegone-fabric-1.5.2+mc1.21.jar"
 },
 ]
 ];
