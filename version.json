@@ -4,6 +4,7 @@
   "changelog": [
 "Funciones Añadidas:",
 "▹Ahora instala los shaders",
+"▹Añadido la funcion de poner gifs de fondo",
 "Erorres arreglados:",
 "▹Las reinstalaciones no funcionaban correctamente",
 "▹Cambiada la estetica del menu de noticias y la pantalla al actualizar"
