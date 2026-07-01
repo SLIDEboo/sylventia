@@ -361,10 +361,6 @@ const mods = [
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/infinite-music-0.4.6.jar"
 },
 {
-  name: "interactic-0.2.3+1.21",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/interactic-0.2.3+1.21.jar"
-},
-{
   name: "iris-fabric-1.8.8+mc1.21.1",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/iris-fabric-1.8.8+mc1.21.1.jar"
 },
