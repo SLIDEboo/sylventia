@@ -1,12 +1,8 @@
 {
-  "version": "2.0",
+  "version": "2.1",
   "installer": "https://github.com/SLIDEboo/sylventia/releases/download/actualizacion/Sylventia-Launcher-Setup.exe",
   "changelog": [
-"Funciones Añadidas:",
-"▹Ahora instala los shaders",
-"▹Añadido la funcion de poner gifs de fondo",
 "Erorres arreglados:",
-"▹Las reinstalaciones no funcionaban correctamente",
-"▹Cambiada la estetica del menu de noticias y la pantalla al actualizar"
+"▹Solucionado que el launcher no instalaba las librerias del audio y de los idiomas",
   ]
 }
