@@ -1,22 +1,2 @@
-sound_physics_remastered:
-    "name": "occlusion",
-    "url": "https://github.com/SLIDEboo/sylventia/releases/download/config/occlusion.properties"
-  },
-  {
-    "name": "reflectivity",
-    "url": "https://github.com/SLIDEboo/sylventia/releases/download/config/reflectivity.properties"
-  },
-  {
-    "name": "soundphysics",
-    "url": "https://github.com/SLIDEboo/sylventia/releases/download/config/soundphysics.properties"
-  },
-  {
-    "name": "sound_rates",
-    "url": "https://github.com/SLIDEboo/sylventia/releases/download/config/sound_rates.properties"
-  }
-
-Coblenav:
-  {
-    "name": "sound_rates",
-    "url": "https://github.com/SLIDEboo/sylventia/releases/download/config/sound_rates.properties"
-  }
+    "name": "soundsbegone.json",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/config/soundsbegone.json"}
