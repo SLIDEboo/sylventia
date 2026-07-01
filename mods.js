@@ -816,6 +816,14 @@ const mods = [
   name: "soundsbegone-fabric-1.5.2+mc1.21.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/soundsbegone-fabric-1.5.2+mc1.21.jar"
 },
+  {
+  name: "gravestones-1.4.1+1.21+A.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/gravestones-1.4.1+1.21+A.jar"
+},
+    {
+  name: "windowed-fullscreen-1.3.0+.1.21-1.21.8.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/windowed-fullscreen-1.3.0+.1.21-1.21.8.jar"
+},
 ]
 ];
 
