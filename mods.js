@@ -816,6 +816,10 @@ const mods = [
   name: "zoomify-2.15.2+1.21.1",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/zoomify-2.15.2+1.21.1.jar"
 },
+  {
+  name: "SoundMuffler-Fabric-0.0.1.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/SoundMuffler-Fabric-0.0.1.1.jar"
+},
 ]
 ];
 
