@@ -1,8 +1,8 @@
 const mods = [
 [
   {
-  name: "SoundMuffler-Fabric-0.0.1.1.jar",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/SoundMuffler-Fabric-0.0.1.1.jar"
+  name: "ExtremeSoundMuffler-3.56_Fabric-1.21.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/ExtremeSoundMuffler-3.56_Fabric-1.21.jar"
 },
   {
   name: "fabric-api-0.116.10+1.21.1",
