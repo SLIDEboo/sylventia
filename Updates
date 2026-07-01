@@ -1,4 +1,16 @@
-**Update Launcher**
+**Update Launcher 2.0**
+*Funciones Añadidas*
++Se ha añadido para que el launcher instale los shaderpacks
++Añadido la funcion de poner GIF en el fondo personalizado
+*Errores Solucionados*
+-Solucionado que cuando hacias click en alguna reinstalacion no se reinstalaba correctamente
+-Solucionado que al cerrar el Minecraft se quedaba el boton de como si estuvieras jugando
+*QoL*
++Cambiado el menu de de noticias para ser mejor visualmente
++Cambiado el menu que te sale cuando hay una actualizacion
+
+
+**Update Launcher 1.5**
 *Funciones Añadidas*
 +Añadido sistema de cerrar el Minecraft desde el propio launcher al tenerlo inciado
 +Añadido un banner de eventos para publicitar eventos que se haran dentro del servidor
