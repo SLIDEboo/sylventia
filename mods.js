@@ -823,7 +823,11 @@ const mods = [
     {
   name: "windowed-fullscreen-1.3.0+.1.21-1.21.8.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/windowed-fullscreen-1.3.0+.1.21-1.21.8.jar"
-},
+      },
+    {
+  name: "weathersettings-fabric-1.21-2.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/weathersettings-fabric-1.21-2.1.jar"
+    },
 ]
 ];
 
