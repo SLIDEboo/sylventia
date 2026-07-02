@@ -1,3 +1,21 @@
+**Update Launcher 2.5**
+"Funciones añadidas",
+"+Añadido que el launcher te añada el servidor al multijugador",
+"+Añadido una opcion en los ajustes para reinstalar todo el fabric junto a las librerias y demas",
+"Erorres arreglados:",
+"-Solucionado que el launcher no instalaba las librerias del audio y de los idiomas",
+"-Solucionado que el launcher no instalaba correctamente los resourcepacks",
+"-Solucionado que el launcher no instalaba bien el options.txt y si lo configurabas a tu gusto te lo quitaba",
+"-Solucionado que el launcher no instalaba correctamente los resourcepacks",
+"-Solucionado que el launcher no instalaba un archivo suelto del config que provocaba un sonido de abejas bugeado",
+"-Solucionado que el launcher no abria el minecraft por un error en el sync de microsoft con el launcher",
+"QoL:",
+"+Añadido mas informacion de las cossas que se estan instalando",
+"+Ahora el launcher tarda menos en instalar todos los mods, librerias, etc...",
+"+Aplicado una mini optimizacion al launcher"
+
+
+
 **Update Launcher 2.0**
 *Funciones Añadidas*
 +Se ha añadido para que el launcher instale los shaderpacks
