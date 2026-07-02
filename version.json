@@ -1,7 +1,8 @@
 {
-  "version": "2.5.0"
+  "version": "2.5.0",
   "installer": "https://github.com/SLIDEboo/sylventia/releases/download/actualizacion/Sylventia-Launcher-Setup.exe",
-  "changelog": [
+  "changelog": 
+  [
 "Funciones añadidas",
 "▹Añadido que el launcher te añada el servidor al multijugador",
 "▹Añadido una opcion en los ajustes para reinstalar todo el fabric junto a las librerias y demas",
