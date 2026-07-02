@@ -827,6 +827,10 @@ const mods = [
     {
   name: "weathersettings-fabric-1.21-2.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/weathersettings-fabric-1.21-2.1.jar"
+       },
+    {
+  name: "cupboard-fabric-1.21.1-3.8.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/cupboard-fabric-1.21.1-3.8.jar"
     },
 ]
 ];
