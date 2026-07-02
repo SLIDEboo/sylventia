@@ -1,6 +1,7 @@
-Optionstxt: 3
-resourcepacks:
-shaderpacks: 1
-config: 4
-mods:
-java21:
+Optionstxt: 4
+resourcepacks: 1
+shaderpacks: 2
+config: 5
+mods: 
+java21: 1
+Fabric 1.21.1: 1
