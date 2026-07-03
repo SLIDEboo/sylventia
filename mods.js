@@ -833,8 +833,8 @@ const mods = [
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/cupboard-fabric-1.21.1-3.8.jar"
 },
     {
-  name: "jei-1.21.1-fabric-19.27.0.346.jar",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/jei-1.21.1-fabric-19.27.0.346.jar"
+  name: "cobbleemi-fabric-1.1.4-for-cobblemon-1.7.3.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/cobbleemi-fabric-1.1.4-for-cobblemon-1.7.3.jar"
 },
     {
   name: "stackrefill-1.21.1-4.9.jar",
@@ -847,10 +847,14 @@ const mods = [
     {
   name: "clientsort-fabric-2.2.2+1.21.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/clientsort-fabric-2.2.2+1.21.1.jar"
-      },
+},
     {
   name: "cobbledex-rei-emi-jei-fabric-2.0.2.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/cobbledex-rei-emi-jei-fabric-2.0.2.jar"
+},
+    {
+  name: "emi-1.1.24+1.21.1+fabric.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/emi-1.1.24+1.21.1+fabric.1.jar"
       
     },
 ]
