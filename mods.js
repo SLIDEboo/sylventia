@@ -843,8 +843,12 @@ const mods = [
     {
   name: "globalxp-fabric-1.21.1-1.12.2.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/globalxp-fabric-1.21.1-1.12.2.jar"
+},
+    {
+  name: "clientsort-fabric-2.2.2+1.21.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/clientsort-fabric-2.2.2+1.21.1.jar"
     },
 ]
 ];
-
+clientsort-fabric-2.2.2+1.21.1.jar
 module.exports = mods;
