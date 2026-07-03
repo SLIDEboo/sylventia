@@ -850,5 +850,4 @@ const mods = [
     },
 ]
 ];
-clientsort-fabric-2.2.2+1.21.1.jar
 module.exports = mods;
