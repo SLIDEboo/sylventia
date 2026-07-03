@@ -847,6 +847,11 @@ const mods = [
     {
   name: "clientsort-fabric-2.2.2+1.21.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/clientsort-fabric-2.2.2+1.21.1.jar"
+      },
+    {
+  name: "cobbledex-rei-emi-jei-fabric-2.0.2.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/cobbledex-rei-emi-jei-fabric-2.0.2.jar"
+      
     },
 ]
 ];
