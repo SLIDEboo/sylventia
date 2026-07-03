@@ -625,10 +625,6 @@ const mods = [
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/respackopts-4.14.0+1.21.1.4.jar"
 },
 {
-  name: "RoughlyEnoughItems-16.0.799-fabric",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/RoughlyEnoughItems-16.0.799-fabric.jar"
-},
-{
   name: "SafePastures-1.1.1+1.21.1",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/SafePastures-1.1.1+1.21.1.jar"
 },
