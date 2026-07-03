@@ -823,14 +823,30 @@ const mods = [
     {
   name: "windowed-fullscreen-1.3.0+.1.21-1.21.8.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/windowed-fullscreen-1.3.0+.1.21-1.21.8.jar"
-      },
+},
     {
   name: "weathersettings-fabric-1.21-2.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/weathersettings-fabric-1.21-2.1.jar"
-       },
+},
     {
   name: "cupboard-fabric-1.21.1-3.8.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/cupboard-fabric-1.21.1-3.8.jar"
+},
+    {
+  name: "jei-1.21.1-fabric-19.27.0.346.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/jei-1.21.1-fabric-19.27.0.346.jar"
+},
+    {
+  name: "InventorySorter-1.9.0-1.21.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/InventorySorter-1.9.0-1.21.jar"
+},
+    {
+  name: "stackrefill-1.21.1-4.9.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/stackrefill-1.21.1-4.9.jar"
+},
+    {
+  name: "globalxp-fabric-1.21.1-1.12.2.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/globalxp-fabric-1.21.1-1.12.2.jar"
     },
 ]
 ];
