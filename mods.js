@@ -837,10 +837,6 @@ const mods = [
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/jei-1.21.1-fabric-19.27.0.346.jar"
 },
     {
-  name: "InventorySorter-1.9.0-1.21.jar",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/InventorySorter-1.9.0-1.21.jar"
-},
-    {
   name: "stackrefill-1.21.1-4.9.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/stackrefill-1.21.1-4.9.jar"
 },
