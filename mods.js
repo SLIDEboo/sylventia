@@ -843,6 +843,10 @@ const mods = [
     {
   name: "emi-1.1.24+1.21.1+fabric.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/emi-1.1.24+1.21.1+fabric.1.jar"
+},
+    {
+  name: "krypton-0.2.8.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/krypton-0.2.8.1.jar"
       },
 ]
 ];
