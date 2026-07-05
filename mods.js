@@ -857,10 +857,6 @@ const mods = [
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/txnilib-fabric-1.0.24-1.21.1.jar"
       },
     {
-  name: "immersivelanterns-fabric-1.0.6-1.21.1-sources.jar",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/immersivelanterns-fabric-1.0.6-1.21.1-sources.jar"
-      },
-    {
   name: "immersivelanterns-fabric-1.0.6-1.21.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/immersivelanterns-fabric-1.0.6-1.21.1.jar"
       },
