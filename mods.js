@@ -859,6 +859,10 @@ const mods = [
     {
   name: "immersivelanterns-fabric-1.0.6-1.21.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/immersivelanterns-fabric-1.0.6-1.21.1.jar"
+},
+    {
+  name: "lambdynamiclights-4.8.10+1.21.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/lambdynamiclights-4.8.10+1.21.1.jar"
    },
 ]
 ];
