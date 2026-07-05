@@ -849,8 +849,8 @@ const mods = [
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/krypton-0.2.8.1.jar"
 },
     {
-  name: "sodiumdynamiclights-fabric-1.0.10-1.21.1.jar",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/sodiumdynamiclights-fabric-1.0.10-1.21.1.jar"
+  name: "sodiumdynamiclights-fabric-1.0.9-1.20.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/sodiumdynamiclights-fabric-1.0.9-1.20.1.jar"
 },
     {
   name: "txnilib-fabric-1.0.24-1.21.1.jar",
