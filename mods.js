@@ -594,11 +594,11 @@ const mods = [
 },
 {
   name: "rctapi-fabric-1.21.1-0.15.0-beta",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/rctapi-fabric-1.21.1-0.15.0-beta.jar"
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/rctmod-fabric-1.21.1-0.18.1-beta.jar"
 },
 {
   name: "rctmod-fabric-1.21.1-0.17.7-beta",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/rctmod-fabric-1.21.1-0.17.7-beta.jar"
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/rctapi-fabric-1.21.1-0.15.2-beta.jar"
 },
 {
   name: "rechiseled-1.2.4-fabric-mc1.21",
@@ -707,10 +707,6 @@ const mods = [
 {
   name: "trinkets-3.10.0",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/trinkets-3.10.0.jar"
-},
-{
-  name: "trmt-0.5.1-1.21.1-fabric",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/trmt-0.5.1-1.21.1-fabric.jar"
 },
 {
   name: "uilib-9.0.0-fabric",
