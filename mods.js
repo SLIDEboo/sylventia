@@ -847,6 +847,14 @@ const mods = [
     {
   name: "krypton-0.2.8.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/krypton-0.2.8.1.jar"
+      },
+    {
+  name: "youre-in-grave-danger-fabric-2.4.18.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/youre-in-grave-danger-fabric-2.4.18.jar"
+      },
+    {
+  name: "beltborne_lanterns-1.2.5-fabric+1.21.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/beltborne_lanterns-1.2.5-fabric+1.21.1.jar"
 },
 ]
 ];
