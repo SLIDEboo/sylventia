@@ -851,6 +851,18 @@ const mods = [
     {
   name: "beltborne_lanterns-1.2.5-fabric+1.21.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/beltborne_lanterns-1.2.5-fabric+1.21.1.jar"
+          },
+    {
+  name: "jrftl-1.21-fabric-1.8.0.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/jrftl-1.21-fabric-1.8.0.jar"
+          },
+    {
+  name: "lambdynamiclights-4.8.10+1.21.1.2.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/lambdynamiclights-4.8.10+1.21.1.2.jar"
+          },
+    {
+  name: "bl_accessories_layer-1.2.2-fabric+1.21.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/bl_accessories_layer-1.2.2-fabric+1.21.1.jar"
 },
 ]
 ];
