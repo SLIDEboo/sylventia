@@ -373,10 +373,6 @@ const mods = [
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/Jade-1.21.1-Fabric-15.10.5.jar"
 },
 {
-  name: "jobsplus-9.0.0-fabric",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/jobsplus-9.0.0-fabric.jar"
-},
-{
   name: "jumpoverfences-fabric-1.21-1.6.0",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/jumpoverfences-fabric-1.21-1.6.0.jar"
 },
