@@ -365,10 +365,6 @@ const mods = [
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/iris-fabric-1.8.8+mc1.21.1.jar"
 },
 {
-  name: "itemrestrictions-9.0.0-fabric",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/itemrestrictions-9.0.0-fabric.jar"
-},
-{
   name: "Jade-1.21.1-Fabric-15.10.5",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/Jade-1.21.1-Fabric-15.10.5.jar"
 },
