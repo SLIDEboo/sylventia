@@ -421,10 +421,6 @@ const mods = [
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/litematica-fabric-1.21-0.19.60.jar"
 },
 {
-  name: "lithium-fabric-0.15.3+mc1.21.1",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/lithium-fabric-0.15.3+mc1.21.1.jar"
-},
-{
   name: "lootr-fabric-1.21.1-1.11.37.120",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/lootr-fabric-1.21.1-1.11.37.120.jar"
 },
