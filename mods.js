@@ -857,8 +857,12 @@ const mods = [
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/bl_accessories_layer-1.2.2-fabric+1.21.1.jar"
 },
     {
-  name: "securecrops-2.0.1+1.21-1.21.1.jar",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/securecrops-2.0.1+1.21-1.21.1.jar"
+  name: "polymorph-fabric-1.1.0+1.21.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/polymorph-fabric-1.1.0+1.21.1.jar"
+},
+    {
+  name: "cobbleemi-fabric-1.1.4-for-cobblemon-1.7.3.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/cobbleemi-fabric-1.1.4-for-cobblemon-1.7.3.1.jar"
 },
 ]
 ];
