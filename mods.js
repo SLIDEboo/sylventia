@@ -1,4 +1,242 @@
+SLIDE
+slidel
+Invisible
+
+SLIDE
+ ha iniciado una llamada que ha durado unos segundos. — 04/07/2026 22:51
+SLIDE — 05/07/2026 2:55
+"Funciones añadidas",
+"▹Añadido que el launcher te añada el servidor al multijugador",
+"▹Añadido una opcion en los ajustes para reinstalar todo el fabric junto a las librerias y demas",
+"Erorres arreglados:",
+"▹Solucionado que el launcher no instalaba las librerias del audio y de los idiomas",
+"▹Solucionado que el launcher no instalaba correctamente los resourcepacks",
+"▹Solucionado que el launcher no instalaba bien el options.txt y si lo configurabas a tu gusto te lo quitaba",
+"▹Solucionado que el launcher no instalaba correctamente los resourcepacks",
+"▹Solucionado que el launcher no instalaba un archivo suelto del config que provocaba un sonido de abejas bugeado",
+"▹Solucionado que el launcher no abria el minecraft por un error en el sync de microsoft con el launcher",
+"QoL:",
+"▹Añadido mas informacion de las cossas que se estan instalando",
+"▹Ahora el launcher tarda menos en instalar todos los mods, librerias, etc...",
+"▹Aplicado una mini optimizacion al launcher"
+SLIDE — 05/07/2026 3:10
+🏆 TORNEO 1 VS 1 - COBBLEVERSE
+SLIDE
+ ha iniciado una llamada que ha durado unos segundos. — 05/07/2026 4:35
+SLIDE
+ ha iniciado una llamada que ha durado unos segundos. — 05/07/2026 5:05
+SLIDE — 05/07/2026 5:38
+<!DOCTYPE html>
+<html lang="en" style="background:#000;">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sylventia</title>... (Tiempo restante: 254 KB)
+
+message.txt
+304 KB
+SLIDE — 05/07/2026 6:32
+{
+  name: "sodiumdynamiclights-fabric-1.0.9-1.20.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/sodiumdynamiclights-fabric-1.0.9-1.20.1.jar"
+},
+    {
+  name: "txnilib-fabric-1.0.24-1.21.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/txnilib-fabric-1.0.24-1.21.1.jar"
+},
+    {
+  name: "immersivelanterns-fabric-1.0.6-1.21.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/immersivelanterns-fabric-1.0.6-1.21.1.jar"
+},
+    {
+  name: "lambdynamiclights-4.8.9+1.21.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/lambdynamiclights-4.8.9+1.21.1.jar"
+   },
+SLIDE — 08/07/2026 19:45
+Poner cosas a los NPCS, y poner precios
+SLIDE — 10/07/2026 3:12
+
+
+
+
+SLIDE
+ ha iniciado una llamada que ha durado unos segundos. — 11/07/2026 5:45
+SLIDE — 12/07/2026 1:03
+https://x.com/i/status/2075792958264082923
+Pepesa (@pepesa91218)
+Gente se puede recrear esto en la vida real? La que intente hacerlo que lo muestre en las respuestas o en md
+
+
+X•11/07/2026 6:03
+
+SLIDE
+ ha iniciado una llamada que ha durado unos segundos. — 12/07/2026 1:33
+SLIDE
+ ha iniciado una llamada que ha durado unos segundos. — 12/07/2026 1:34
+SLIDE
+ ha iniciado una llamada que ha durado unos segundos. — 12/07/2026 1:35
+SLIDE
+ ha iniciado una llamada que ha durado unos segundos. — 15/07/2026 19:04
+SLIDE
+ ha iniciado una llamada que ha durado unos segundos. — 15/07/2026 19:06
+SLIDE
+ ha iniciado una llamada que ha durado unos segundos. — 15/07/2026 20:39
+SLIDE — ayer a las 4:34
+https://www.youtube.com/watch?v=yiLhomqZUeg
+YouTube
+CASG
+RAP DE LA TABLA DE TIPOS POKEMON | RAP DE POKEMON | CASG
+Imagen
+Sylventia:
+Dia:
+https://i.ibb.co/3yqpPvv6/libreria-dia.png
+https://i.ibb.co/DPSkyTD1/fuente-dia.png
+https://i.ibb.co/tMmGqNBd/wahru-dia.png
+https://i.ibb.co/YFcbZ3D3/barril-dia.png
+https://i.ibb.co/G3BphCDp/forja-dia.png
+
+Noche:
+https://i.ibb.co/pv6y2HtG/libreria-noche.png
+https://i.ibb.co/Sws6c7Pv/fuente-noche.png
+https://i.ibb.co/KcKT0C5y/wahru-noche.png
+https://i.ibb.co/Pvmn3MP2/barril-noche.png
+https://i.ibb.co/jZghyP24/forja-noche.png
+
+Pruebas:
+Dia:
+https://i.ibb.co/3yqpPvv6/libreria-dia.png
+https://i.ibb.co/DPSkyTD1/fuente-dia.png
+https://i.ibb.co/tMmGqNBd/wahru-dia.png
+https://i.ibb.co/YFcbZ3D3/barril-dia.png
+https://i.ibb.co/G3BphCDp/forja-dia.png
+
+Noche:
+https://i.ibb.co/pv6y2HtG/libreria-noche.png
+https://i.ibb.co/Sws6c7Pv/fuente-noche.png
+https://i.ibb.co/KcKT0C5y/wahru-noche.png
+https://i.ibb.co/Pvmn3MP2/barril-noche.png
+https://i.ibb.co/jZghyP24/forja-noche.png
+Imagen
+Imagen
+Imagen
+Imagen
+Imagen
+Sylventia:
+**Update Launcher 2.5**
+*Funciones añadidas*
+"+Añadido que el launcher te añada el servidor al multijugador
+"+Añadido una opcion en los ajustes para reinstalar todo el fabric junto a las librerias y demas
+*Erorres arreglados:*
+
+message.txt
+5 KB
+Sylventia:
+
+Torneo de Construcción
+banner incio: https://i.ibb.co/fVBwW3Cr/images.jpg
+banner dentro: https://i.ibb.co/fVBwW3Cr/images.jpg
+Fecha: 07/07/2026 23:59
+¿En qué consiste?:
+Cada participante deberá construir un mercado o tienda en la isla del spawn, siguiendo una temática que se asignará por sorteo entre varias opciones.
+Fechas
+Miércoles: Sorteo y asignación de temática y zona de construcción.
+Hasta el lunes: Tiempo para construir el mercado.
+Importante
+La participación es totalmente opcional.
+MAS INFORMACION EN EL DISCORD
+
+Pruebas:
+
+Torneo de Construccióna
+banner incio: https://i.ibb.co/fVBwW3Cr/images.jpg
+banner dentro: https://i.ibb.co/fVBwW3Cr/images.jpg
+Fecha: 07/07/2026 23:59
+¿En qué consiste?:
+Cada participante deberá construir un mercado o tienda en la isla del spawn, siguiendo una temática que se asignará por sorteo entre varias opciones.
+Fechas
+Miércoles: Sorteo y asignación de temática y zona de construcción.
+Hasta el lunes: Tiempo para construir el mercado.
+Importante
+La participación es totalmente opcional.
+MAS INFORMACION EN EL DISCORD
+Imagen
+Sylventia:
+    "name": "soundsbegone.json",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/config/soundsbegone.json"%7D
+
+Pruebas:
+    "name": "soundsbegone.json",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/config/soundsbegone.json"%7D
+Sylventia: 1
+Pruebas: 2 : Pruebas1234
 const mods = [
+Sylventia:
+  [
+{
+  name: "accessories-fabric-1.1.0-beta.53+1.21.1",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar"
+
+message.txt
+34 KB
+Sylventia:
+https://github.com/SLIDEboo/sylventia/releases/download/options/options.txt
+
+Pruebas:
+https://github.com/SLIDEboo/sylventia/releases/download/options/options.txt
+Sylventia:
+1.No hacer Trampa ni usar Exploits o Glitches.
+-X-ray , mod menus, y cualquier tipo de hacks (todos sabemos lo que son y no son hacks)
+-Si se encuentra un exploit deberá ser inmediatamente informado a los Administradores
+2.No hacer Griefring
+-No destruyas las construcciones de otros jugadores ni robes nada sin permiso.
+
+message.txt
+5 KB
+optionstxt:
+resourcepacks: 1
+shaderpacks:
+config:
+mods:
+java21:
+Sylventia:
+[
+  {
+    "name": "ATMxMSD.RP",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/resourcepacks/ATMxMSD.RP.zip"
+  },
+
+message.txt
+9 KB
+Sylventia:
+83.61.251.253:25565
+Sylventia:
+[
+  {
+    "name": "ComplementaryUnbound_r5.7.1",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/shaderpacks/ComplementaryUnbound_r5.7.1.zip"
+  }
+]
+
+Pruebas:
+[
+  {
+    "name": "ComplementaryUnbound_r5.7.1",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/shaderpacks/ComplementaryUnbound_r5.7.1.zip"
+  }
+]
+{
+  "version": "2.8.0",
+  "installer": "https://github.com/SLIDEboo/sylventia/releases/download/actualizacion/Sylventia-Launcher-Setup.exe",
+  "changelog": 
+  [
+"QoL:",
+"▹Se ha mejorado el menu del banner para ser mejor visualmente"
+
+  ]
+}
+﻿
+const mods = [
+Sylventia:
   [
 {
   name: "accessories-fabric-1.1.0-beta.53+1.21.1",
@@ -858,3 +1096,12 @@ const mods = [
 },
 ]
 ];
+
+Pruebas:
+},
+    {
+  name: "polymorph-fabric-1.1.0+1.21.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/polymorph-fabric-1.1.0+1.21.1.jar"
+},
+]
+module.exports = mods;
