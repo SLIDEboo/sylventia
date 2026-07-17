@@ -1,10 +1,13 @@
 {
-  "version": "2.8.0",
+  "version": "2.9.0",
   "installer": "https://github.com/SLIDEboo/sylventia/releases/download/actualizacion/Sylventia-Launcher-Setup.exe",
   "changelog": 
   [
-"QoL:",
-"▹Se ha mejorado el menu del banner para ser mejor visualmente"
-
+"Funciones añadidas",
+"▹Añadido un nuevo menu para seleccionar distintos modos (Solo disponible para devs de momento)",
+"Erorres arreglados:",
+"▹Al cerrar el MC no se podria volver a abrir salvo que reiniciars el PC",
+"▹Solucionado error que no conectaba con los sv de microsoft y le tenias que volver a dar para que funcione",
+"▹Solucionado error que el menu del banner se colocaba fuera de lugar"
   ]
 }
