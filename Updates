@@ -1,8 +1,16 @@
 Sylventia:
+**Update Launcher 3.0**
+*Funciones añadidas*
++Añadido un nuevo menu para seleccionar distintos modos (Solo disponible para devs de momento)
+*Erorres arreglados*
+-Al cerrar el MC no se podria volver a abrir salvo que reiniciars el PC
+-Solucionado error que no conectaba con los sv de microsoft y le tenias que volver a dar para que funcione
+-Solucionado error que el menu del banner se colocaba fuera de lugar
+
 **Update Launcher 2.5**
 *Funciones añadidas*
-"+Añadido que el launcher te añada el servidor al multijugador
-"+Añadido una opcion en los ajustes para reinstalar todo el fabric junto a las librerias y demas
++Añadido que el launcher te añada el servidor al multijugador
++Añadido una opcion en los ajustes para reinstalar todo el fabric junto a las librerias y demas
 *Erorres arreglados:*
 -Solucionado que el launcher no instalaba las librerias del audio y de los idiomas
 -Solucionado que el launcher no instalaba correctamente los resourcepacks
@@ -41,6 +49,14 @@ Sylventia:
 +Cambiado el menu de ajustes para ser mas comodo visualmente
 
 Pruebas:
+**Update Launcher 3.0**
+*Funciones añadidas*
++Añadido un nuevo menu para seleccionar distintos modos (Solo disponible para devs de momento)
+*Erorres arreglados*
+-Al cerrar el MC no se podria volver a abrir salvo que reiniciars el PC
+-Solucionado error que no conectaba con los sv de microsoft y le tenias que volver a dar para que funcione
+-Solucionado error que el menu del banner se colocaba fuera de lugar
+
 **Update Launcher 2.5**
 *Funciones añadidas*
 "+Añadido que el launcher te añada el servidor al multijugador
