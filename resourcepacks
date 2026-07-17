@@ -1,3 +1,4 @@
+Sylventia:
 [
   {
     "name": "ATMxMSD.RP",
@@ -208,3 +209,10 @@
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/resourcepacks/Slightly-Improved-Font-1.1.5.1.zip"
   }
 ]
+
+Pruebas:
+  },
+  {
+    "name": "Canon.PC.Wallpapers",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/resourcepacks/Canon.PC.Wallpapers.zip"
+  },
