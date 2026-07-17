@@ -1719,8 +1719,8 @@ Pruebas:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/polymorph-fabric-1.1.0+1.21.1.jar"
 },
     {
-  name: "Gts-2.6.0-fabric.jar",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/Gts-2.6.0-fabric.jar"
+  name: "Gts-2.5.1-fabric.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/Gts-2.5.1-fabric.jar"
 },
 ]
 ];
