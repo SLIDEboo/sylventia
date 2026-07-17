@@ -1,4 +1,5 @@
 const mods = [
+Sylventia:
   [
 {
   name: "accessories-fabric-1.1.0-beta.53+1.21.1",
@@ -858,3 +859,12 @@ const mods = [
 },
 ]
 ];
+
+Pruebas:
+},
+    {
+  name: "polymorph-fabric-1.1.0+1.21.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/polymorph-fabric-1.1.0+1.21.1.jar"
+},
+]
+module.exports = mods;
