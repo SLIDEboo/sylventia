@@ -1,10 +1,10 @@
 {
-  "version": "3.0.0",
+  "version": "3.1.0",
   "installer": "https://github.com/SLIDEboo/sylventia/releases/download/actualizacion/Sylventia-Launcher-Setup.exe",
   "changelog": 
   [
 "Erorres arreglados:",
-"▹El launcher no se colocaba en mantenimiento"
+"▹Quitada la consola (Se me olvido quitarla)"
  
   ]
 }
