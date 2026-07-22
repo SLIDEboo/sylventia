@@ -1,13 +1,16 @@
 Sylventia:
 
 **Update Launcher 3.0**
+*Erorres arreglados*
+-El launcher no se colocaba en mantenimiento
+
+**Update Launcher 2.7**
 *Funciones añadidas*
 +Añadido un nuevo menu para seleccionar distintos modos (Solo disponible para devs de momento)
 *Erorres arreglados*
 -Al cerrar el MC no se podria volver a abrir salvo que reiniciars el PC
 -Solucionado error que no conectaba con los sv de microsoft y le tenias que volver a dar para que funcione
 -Solucionado error que el menu del banner se colocaba fuera de lugar
--El launcher no se colocaba en mantenimiento
 
 **Update Launcher 2.5**
 *Funciones añadidas*
