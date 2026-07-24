@@ -861,7 +861,7 @@ Sylventia:
 ];
 
 Pruebas:
-  [
+    [
 {
   name: "accessories-fabric-1.1.0-beta.53+1.21.1",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar"
@@ -1717,10 +1717,10 @@ Pruebas:
     {
   name: "polymorph-fabric-1.1.0+1.21.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/polymorph-fabric-1.1.0+1.21.1.jar"
-},
+      },
     {
-  name: "Gts-2.5.1-fabric.jar",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/Gts-2.5.1-fabric.jar"
+  name: "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
 },
 ]
 ];
