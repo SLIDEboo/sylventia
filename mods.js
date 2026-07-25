@@ -1735,8 +1735,8 @@ Pruebas:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/zoomify-2.15.2+1.21.1.jar"
   },
 {
-  name: "Gts-2.6.0-fabric.1.jar",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Gts-2.6.0-fabric.1.jar"
+  name: "Gts-2.5.1-fabric.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Gts-2.5.1-fabric.1.jar"
 },
 ]
 ];
