@@ -1748,15 +1748,15 @@ Pruebas:
 {
   name: "zoomify-2.15.2+1.21.1",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/zoomify-2.15.2+1.21.1.jar"
-  },
+},
 {
   name: "Gts-2.5.1-fabric.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Gts-2.5.1-fabric.1.jar"
-    },
+},
 {
   name: "refurbished_furniture-fabric-1.21.1-1.0.22.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/refurbished_furniture-fabric-1.21.1-1.0.22.jar"
-      },
+},
 {
   name: "framework-fabric-1.21.1-0.13.11.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/framework-fabric-1.21.1-0.13.11.1.jar"
@@ -1764,11 +1764,11 @@ Pruebas:
   {
     "name": "Slightly-Improved-Font-1.1.5.1.zip",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Slightly-Improved-Font-1.1.5.1.zip"
-        },
+},
   {
     "name": "lithium-fabric-0.15.4+mc1.21.1.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/lithium-fabric-0.15.4+mc1.21.1.jar"
-              },
+},
   {
     "name": "cobbledex-rei-emi-jei-fabric-2.0.3.1.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/cobbledex-rei-emi-jei-fabric-2.0.3.1.jar"
