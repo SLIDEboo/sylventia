@@ -1770,7 +1770,7 @@ Pruebas:
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/cobbledex-rei-emi-jei-fabric.jar"
 },
   {
-    "name": "cobbledex-rei-emi-jei-fabric.jar",
+    "name": "a",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/cobbledex-rei-emi-jei-fabric-2.0.3.1.jar"
 },
 ]
