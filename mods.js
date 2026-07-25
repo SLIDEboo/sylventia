@@ -1760,6 +1760,18 @@ Pruebas:
 {
   name: "framework-fabric-1.21.1-0.13.11.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/framework-fabric-1.21.1-0.13.11.1.jar"
+  },
+  {
+    "name": "Slightly-Improved-Font-1.1.5.1.zip",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Slightly-Improved-Font-1.1.5.1.zip"
+        },
+  {
+    "name": "lithium-fabric-0.15.4+mc1.21.1.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/lithium-fabric-0.15.4+mc1.21.1.jar"
+              },
+  {
+    "name": "cobbledex-rei-emi-jei-fabric-2.0.3.1.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/cobbledex-rei-emi-jei-fabric-2.0.3.1.jar"
 },
 ]
 ];
