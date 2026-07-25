@@ -1167,10 +1167,6 @@ Pruebas:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/FallingTree-1.21.1-1.21.1.11.jar"
 },
 {
-  name: "fancymenu_fabric_3.9.8_MC_1.21.1",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/fancymenu_fabric_3.9.8_MC_1.21.1.jar"
-},
-{
   name: "FarmersDelight-1.21.1-3.3.3+refabricated",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/FarmersDelight-1.21.1-3.3.3+refabricated.jar"
 },
