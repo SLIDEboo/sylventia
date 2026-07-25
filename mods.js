@@ -1459,10 +1459,6 @@ Pruebas:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/particle_core-0.3.3+1.21.jar"
 },
 {
-  name: "particular-1.21.1-Fabric-1.5.5",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/particular-1.21.1-Fabric-1.5.5.jar"
-},
-{
   name: "pastureLoot-1.0.5+1.21.1",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/pastureLoot-1.0.5+1.21.1.jar"
 },
@@ -1737,6 +1733,10 @@ Pruebas:
 {
   name: "zoomify-2.15.2+1.21.1",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/zoomify-2.15.2+1.21.1.jar"
+  },
+{
+  name: "Gts-2.6.0-fabric.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Gts-2.6.0-fabric.1.jar"
 },
 ]
 ];
