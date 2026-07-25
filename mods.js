@@ -1766,7 +1766,7 @@ Pruebas:
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/lithium-fabric-0.15.4+mc1.21.1.jar"
 },
   {
-    "name": "cobbledex-rei-emi-jei-fabric-2.0.3.1.jar",
+    "name": "cobbledex-rei-emi-jei-fabric.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/cobbledex-rei-emi-jei-fabric-2.0.3.1.jar"
 },
 ]
