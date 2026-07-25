@@ -1550,10 +1550,6 @@ Pruebas:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/respackopts-4.14.0+1.21.1.4.jar"
 },
 {
-  name: "RoughlyEnoughItems-16.0.799-fabric",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/RoughlyEnoughItems-16.0.799-fabric.jar"
-},
-{
   name: "SafePastures-1.1.1+1.21.1",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/SafePastures-1.1.1+1.21.1.jar"
 },
