@@ -438,10 +438,6 @@ Sylventia:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/LumyMon-0.6.5.jar"
 },
 {
-  name: "LumyREI-1.1.3",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/LumyREI-1.1.3.jar"
-},
-{
   name: "malilib-fabric-1.21-0.21.10",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods/malilib-fabric-1.21-0.21.10.jar"
 },
@@ -1737,6 +1733,10 @@ Pruebas:
 {
   name: "Gts-2.5.1-fabric.1.jar",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Gts-2.5.1-fabric.1.jar"
+    },
+{
+  name: "refurbished_furniture-fabric-1.21.1-1.0.22.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/refurbished_furniture-fabric-1.21.1-1.0.22.jar"
 },
 ]
 ];
