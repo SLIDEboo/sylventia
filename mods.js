@@ -486,10 +486,6 @@ Sylventia:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/LumyMon-0.6.6.jar"
 },
 {
-  name: "LumyREI-1.1.3",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/LumyREI-1.1.3.jar"
-},
-{
   name: "malilib-fabric-1.21-0.21.10",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/malilib-fabric-1.21-0.21.10.jar"
 },
