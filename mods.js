@@ -1739,10 +1739,6 @@ Pruebas:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/zamega-fabric-1.7.3.jar"
 },
 {
-  name: "zfastnoise-1.0.13+1.21",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/zfastnoise-1.0.13+1.21.jar"
-},
-{
   name: "zoomify-2.15.2+1.21.1",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/zoomify-2.15.2+1.21.1.jar"
 },
