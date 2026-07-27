@@ -1,10 +1,12 @@
 {
-  "version": "3.5.0",
+  "version": "3.6.0",
   "installer": "https://github.com/SLIDEboo/sylventia/releases/download/actualizacion/Sylventia-Launcher-Setup.exe",
   "changelog": 
   [
-"Errores Arreglados:",
-"▹Arreglado error que no descarga algunos mods debido a la longitud del codigo"
+"QoL:",
+"▹Rediseñada la interfaz de las reglas",
+"Anuncio:",
+"▹Esta sera la ultima actualizacion del launcher (Salvo por algun bug que impida hacer algo en el launhcer) <3"
  
   ]
 }
