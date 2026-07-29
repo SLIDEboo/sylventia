@@ -886,8 +886,8 @@ Sylventia:
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/cobbledex-rei-emi-jei-fabric-2.0.3.1.jar"
 },
   {
-    "name": "sb-inventoryweight-1.0.0.jar",
-    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/sb-inventoryweight-1.0.0.jar"
+    "name": "inventory-weight-2.0.2-1.21.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/inventory-weight-2.0.2-1.21.jar"
 },
 ]
 ];
