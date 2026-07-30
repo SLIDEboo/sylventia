@@ -286,10 +286,6 @@ Sylventia:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/entity_texture_features_1.21-fabric-7.1.jar"
 },
 {
-  name: "Essential_1-3-10-9_fabric_1-21-1",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Essential_1-3-10-9_fabric_1-21-1.jar"
-},
-{
   name: "EuphoriaPatcher-1.9.3-r5.8.1-fabric",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar"
 },
