@@ -889,6 +889,14 @@ Sylventia:
     "name": "travelersbackpack-fabric-1.21.1-10.1.38.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/travelersbackpack-fabric-1.21.1-10.1.38.jar"
 },
+  {
+    "name": "Essential_1-4-1-1_fabric_1-21-1.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Essential_1-4-1-1_fabric_1-21-1.jar"
+},
+  {
+    "name": "elytraslot-fabric-9.0.1+1.21.1.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/elytraslot-fabric-9.0.1+1.21.1.jar"
+},
 ]
 ];
 Pruebas:
