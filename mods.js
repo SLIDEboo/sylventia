@@ -686,10 +686,6 @@ Sylventia:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/sodium-fabric-0.8.12+mc1.21.1.jar"
 },
 {
-  name: "sophisticatedbackpacks-1.21.1-3.23.4.3.106",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar"
-},
-{
   name: "sophisticatedcore-1.21.1-1.2.9.21.168",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/sophisticatedcore-1.21.1-1.2.9.21.168.jar"
 },
