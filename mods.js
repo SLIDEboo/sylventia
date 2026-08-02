@@ -868,6 +868,14 @@ Sylventia:
   {
     "name": "elytraslot-fabric-9.0.1+1.21.1.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/elytraslot-fabric-9.0.1+1.21.1.jar"
+      },
+  {
+    "name": "DiagonalFences-v21.1.1-1.21.1-Fabric.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/DiagonalFences-v21.1.1-1.21.1-Fabric.jar"
+},
+  {
+    "name": "DiagonalWalls-v21.1.2-1.21.1-Fabric.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/DiagonalWalls-v21.1.2-1.21.1-Fabric.jar"
 },
 ]
 ];
