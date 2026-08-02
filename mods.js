@@ -262,10 +262,6 @@ Sylventia:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/elevatorid-fabric-1.21-1.11.1.jar"
 },
 {
-  name: "emi-1.1.24+1.21.1+fabric.1",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/emi-1.1.24+1.21.1+fabric.1.jar"
-},
-{
   name: "entityculling-fabric-1.10.5-mc1.21.1",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/entityculling-fabric-1.10.5-mc1.21.1.jar"
 },
@@ -864,10 +860,6 @@ Sylventia:
   {
     "name": "lithium-fabric-0.15.4+mc1.21.1.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/lithium-fabric-0.15.4+mc1.21.1.jar"
-},
-  {
-    "name": "cobbledex-rei-emi-jei-fabric.jar",
-    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/cobbledex-rei-emi-jei-fabric-2.0.3.1.jar"
 },
   {
     "name": "travelersbackpack-fabric-1.21.1-10.1.38.jar",
