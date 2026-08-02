@@ -876,6 +876,14 @@ Sylventia:
   {
     "name": "DiagonalWalls-v21.1.2-1.21.1-Fabric.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/DiagonalWalls-v21.1.2-1.21.1-Fabric.jar"
+      },
+  {
+    "name": "cobbledex-rei-emi-jei-fabric-2.0.3.1.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/cobbledex-rei-emi-jei-fabric-2.0.3.1.jar"
+},
+  {
+    "name": "emi-1.1.24+1.21.1+fabric.1.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/emi-1.1.24+1.21.1+fabric.1.jar"
 },
 ]
 ];
