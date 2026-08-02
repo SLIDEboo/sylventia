@@ -246,10 +246,6 @@ Sylventia:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/DiagonalFences-v21.1.1-1.21.1-Fabric.jar"
 },
 {
-  name: "DiagonalWalls-v21.1.2-1.21.1-Fabric",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/DiagonalWalls-v21.1.2-1.21.1-Fabric.jar"
-},
-{
   name: "doubledoors-1.21.1-7.2",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/doubledoors-1.21.1-7.2.jar"
 },
