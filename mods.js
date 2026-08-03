@@ -885,6 +885,10 @@ Sylventia:
     "name": "emi-1.1.24+1.21.1+fabric.1.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/emi-1.1.24+1.21.1+fabric.1.jar"
 },
+  {
+    "name": "Essential_1-4-1-1_fabric_1-21-1.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Essential_1-4-1-1_fabric_1-21-1.jar"
+},
 ]
 ];
 Pruebas:
