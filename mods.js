@@ -414,8 +414,8 @@ Sylventia:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/lambdynamiclights-4.8.10+1.21.1.2.jar"
 },
 {
-  name: "LegendaryMonuments-Cobbleverse.jar",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/LegendaryMonuments-Cobbleverse.jar"
+  name: "legendarymonuments-fabric-1.21.1-8.0.3.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/legendarymonuments-fabric-1.21.1-8.0.3.jar"
 },
 {
   name: "lenientdeath-1.2.5+1.21.1",
