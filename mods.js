@@ -905,6 +905,10 @@ Sylventia:
     "name": "adventure-platform-fabric-5.14.2.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/adventure-platform-fabric-5.14.2.jar"
 },
+  {
+    "name": "indium-1.0.35+mc1.21.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/indium-1.0.35+mc1.21.jar"
+},
 ]
 ];
 Pruebas:
