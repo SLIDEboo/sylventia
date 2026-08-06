@@ -746,10 +746,6 @@ Sylventia:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/villagerconfig-fabric-4.5.4+1.21.1.jar"
 },
 {
-  name: "voicechat-fabric-1.21.1-2.6.18",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/voicechat-fabric-1.21.1-2.6.18.jar"
-},
-{
   name: "waystones-fabric-1.21.1-21.1.37",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/waystones-fabric-1.21.1-21.1.37.jar"
 },
