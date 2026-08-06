@@ -897,6 +897,10 @@ Sylventia:
     "name": "chipped-fabric-1.21.1-4.0.2.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/chipped-fabric-1.21.1-4.0.2.jar"
 },
+  {
+    "name": "Terralith_1.21.x_v2.6.2.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Terralith_1.21.x_v2.6.2.jar"
+},
 ]
 ];
 Pruebas:
