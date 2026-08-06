@@ -889,6 +889,14 @@ Sylventia:
     "name": "Essential_1-4-1-1_fabric_1-21-1.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Essential_1-4-1-1_fabric_1-21-1.jar"
 },
+  {
+    "name": "lithostitched-1.7.13-fabric-21.1.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/lithostitched-1.7.13-fabric-21.1.jar"
+},
+  {
+    "name": "chipped-fabric-1.21.1-4.0.2.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/chipped-fabric-1.21.1-4.0.2.jar"
+},
 ]
 ];
 Pruebas:
@@ -1322,8 +1330,8 @@ Pruebas:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/lambdynamiclights-4.8.10+1.21.1.2.jar"
 },
 {
-  name: "LegendaryMonuments-Cobbleverse",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/LegendaryMonuments-Cobbleverse.jar"
+  name: "legendarymonuments-fabric-1.21.1-8.0.3.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/legendarymonuments-fabric-1.21.1-8.0.3.jar"
 },
 {
   name: "lenientdeath-1.2.5+1.21.1",
