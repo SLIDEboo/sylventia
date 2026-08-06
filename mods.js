@@ -901,6 +901,10 @@ Sylventia:
     "name": "Terralith_1.21.x_v2.6.2.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Terralith_1.21.x_v2.6.2.jar"
 },
+  {
+    "name": "adventure-platform-fabric-5.14.2.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/adventure-platform-fabric-5.14.2.jar"
+},
 ]
 ];
 Pruebas:
