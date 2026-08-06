@@ -905,6 +905,10 @@ Sylventia:
     "name": "tbcs-fabric-1.21.1-0.14.1-beta.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/tbcs-fabric-1.21.1-0.14.1-beta.jar"
 },
+  {
+    "name": "mega_showdown-fabric-1.9.3+1.7.3+1.21.1.jar",
+    "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/mega_showdown-fabric-1.9.3+1.7.3+1.21.1.jar"
+},
 ]
 ];
 Pruebas:
