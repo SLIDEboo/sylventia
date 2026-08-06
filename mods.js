@@ -474,8 +474,8 @@ Sylventia:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/malilib-fabric-1.21-0.21.10.jar"
 },
 {
-  name: "mega_showdown-fabric-1.8.4+1.7.3+1.21.1",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/mega_showdown-fabric-1.8.4+1.7.3+1.21.1.jar"
+  name: "mega_showdown-fabric-1.9.3+1.7.3+1.21.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/mega_showdown-fabric-1.9.3+1.7.3+1.21.1.jar"
 },
 {
   name: "melody_fabric_1.0.10_MC_1.21",
