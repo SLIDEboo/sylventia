@@ -902,6 +902,10 @@ Sylventia:
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/indium-1.0.35+mc1.21.jar"
 },
   {
+  name: "Gts-2.5.1-fabric.1.jar",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/Gts-2.5.1-fabric.1.jar"
+},
+  {
     "name": "tbcs-fabric-1.21.1-0.14.1-beta.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/tbcs-fabric-1.21.1-0.14.1-beta.jar"
 },
