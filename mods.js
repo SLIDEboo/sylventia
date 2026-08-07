@@ -830,10 +830,6 @@ Sylventia:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/YungsExtras-1.21.1-Fabric-5.1.1.jar"
 },
 {
-  name: "zamega-fabric-1.7.1",
-  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/zamega-fabric-1.7.1.jar"
-},
-{
   name: "zamega-fabric-1.7.3",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/zamega-fabric-1.7.3.jar"
 },
@@ -900,6 +896,9 @@ Sylventia:
   {
     "name": "indium-1.0.35+mc1.21.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/indium-1.0.35+mc1.21.jar"
+
+  name: "accessories-fabric-1.1.0-beta.53+1.21.1",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/accessories-fabric-1.1.0-beta.53+1.21.1.jar"
 },
   {
     "name": "tbcs-fabric-1.21.1-0.14.1-beta.jar",
