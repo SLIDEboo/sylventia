@@ -896,11 +896,16 @@ Sylventia:
   {
     "name": "indium-1.0.35+mc1.21.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/indium-1.0.35+mc1.21.jar"
-
+},
+  {
   name: "accessories-fabric-1.1.0-beta.53+1.21.1",
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/accessories-fabric-1.1.0-beta.53+1.21.1.jar"
 },
   {
+  name: "voicechat-fabric-1.21.1-2.6.18",
+  url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/voicechat-fabric-1.21.1-2.6.18.jar"
+},
+{
     "name": "tbcs-fabric-1.21.1-0.14.1-beta.jar",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/tbcs-fabric-1.21.1-0.14.1-beta.jar"
 },
@@ -913,7 +918,7 @@ Pruebas:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/accessories-fabric-1.1.0-beta.53+1.21.1.jar"
 },
 {
-  name: "accessories_compat_layer-fabric-0.1.12+1.21.1",
+  name: "accessories_compat_layer-fabric-0.1.12+1.21.1"
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/accessories_compat_layer-fabric-0.1.12+1.21.1.jar"
 },
 {
@@ -1705,7 +1710,8 @@ Pruebas:
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/youre-in-grave-danger-fabric-2.4.18.jar"
 },
 {
-  name: "YungsApi-1.21.1-Fabric-5.1.6",
+  name: "YungsApi-1.21.1-Fabric-5.1.6"
+    
   url: "https://github.com/SLIDEboo/sylventia/releases/download/mods-pruebas/YungsApi-1.21.1-Fabric-5.1.6.jar"
 },
 {
