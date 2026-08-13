@@ -1,10 +1,6 @@
 Sylventia:
 [
   {
-    "name": "ATMxMSD.RP",
-    "url": "https://github.com/SLIDEboo/sylventia/releases/download/resourcepacks/ATMxMSD.RP.zip"
-  },
-  {
     "name": "Canon.PC.Wallpapers",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/resourcepacks/Canon.PC.Wallpapers.zip"
   },
@@ -73,10 +69,6 @@ Sylventia:
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/resourcepacks/Fresh.Icons.zip"
   },
   {
-    "name": "Fresh.Moves",
-    "url": "https://github.com/SLIDEboo/sylventia/releases/download/resourcepacks/Fresh.Moves.zip"
-  },
-  {
     "name": "FullyHisuianStarters.RP",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/resourcepacks/FullyHisuianStarters.RP.zip"
   },
@@ -141,7 +133,7 @@ Sylventia:
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/resourcepacks/TDmon.RP.zip"
   },
   {
-    "name": "z.DO.NOT.ENABLE.z.ATM.x.MSD.-.Credits.Only",
+    "name": "ATM.x.MSD.RP",
     "url": "https://github.com/SLIDEboo/sylventia/releases/download/resourcepacks/z.DO.NOT.ENABLE.z.ATM.x.MSD.-.Credits.Only.zip"
   },
   {
