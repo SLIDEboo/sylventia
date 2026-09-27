@@ -1,5 +1,5 @@
-🥇 **Slidee__** — 14m
+🥇 **Slidee__** — 17m
 
-_Última actualización: 27 sept · 13:16_
+_Última actualización: 27 sept · 13:19_
 
-<!-- DATOS:{"players":{"Slidee__":839279},"discordMessageId":null}-->
+<!-- DATOS:{"players":{"Slidee__":1000184},"discordMessageId":null}-->
