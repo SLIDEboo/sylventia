@@ -1,6 +1,6 @@
 {
-  "version": "3.9.0",
-  "installer": "https://github.com/SLIDEboo/sylventia/releases/download/actualizacion/Sylventia.Launcher.Setup.1.0.0.exe",
+  "version": "4.0.0",
+  "installer": "https://github.com/SLIDEboo/sylventia/releases/download/actualizacion/Sylventia.Launcher.1.0.0.exe",
   "changelog": 
   [
 "QoL:",
