@@ -1,12 +1,5 @@
 {
-  "version": "4.0.0",
+  "version": "1.0.5",
   "installer": "https://github.com/SLIDEboo/sylventia/releases/download/actualizacion/Sylventia.Launcher.1.0.0.exe",
-  "changelog": 
-  [
-"QoL:",
-"▹Verga",
-"LOL:",
-"▹NO INSTALAR VIRUS :D"
- 
-  ]
+  "changelog": ["Lo que cambió en esta versión"]
 }
