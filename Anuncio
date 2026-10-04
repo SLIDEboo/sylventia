@@ -1,13 +1,1 @@
-{
-  "items": [
-    {
-      "id": "1791117160692",
-      "title": "Comunicado",
-      "message": ":D",
-      "ack": "He leído y comprendido este comunicado",
-      "at": 1791117160692,
-      "block": true,
-      "expires": 1791203520000
-    }
-  ]
-}
+{"items":[]}
